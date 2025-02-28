@@ -88,11 +88,11 @@ Eventverse is a revolutionary blockchain-based ticketing platform engineered to 
 
 | Name                 | Role               | Contact                                                          |
 | -------------------- | ------------------ | ---------------------------------------------------------------- |
-| Brandistone Nyabonyi | Frontend Developer | [brandistone@example.com](mailto:brandymabeya@gmail.com)       |
-| Williams Ochieng     | Smart Contract Dev | [williams@example.com](mailto:ochiwilliamotieno@gmail.com)             |
-| John Mokaya          | Frontend Developer | [johnmokaya@example.com](mailto:mokayaj857@gmail.com)         |
-| Stanley Kariuki      | Smart Contract Dev | [stanleykariuki@example.com](mailto:stanleykariuki1999@gmail.com) |
-| Phelix               | Backend Developer  | [phelix@example.com](mailto:felixom399@gmail.com)                 |
+| Brandistone Nyabonyi | Frontend Developer | [brandymabeya@gmail.com](mailto:brandymabeya@gmail.com)       |
+| Williams Ochieng     | Smart Contract Dev | [ochiwilliamotieno@gmail.com](mailto:ochiwilliamotieno@gmail.com)             |
+| John Mokaya          | Frontend Developer | [mokayaj857@gmail.com](mailto:mokayaj857@gmail.com)         |
+| Stanley Kariuki      | Smart Contract Dev | [stanleykariuki1999@gmail.com](mailto:stanleykariuki1999@gmail.com) |
+| Phelix               | Backend Developer  | [felixom399@gmail.com](mailto:felixom399@gmail.com)                 |
 
 ## 📈 Project Milestones
 
